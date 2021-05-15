@@ -92,7 +92,7 @@ td, th {
 .navigation {
 	margin: 1rem 1.5rem;
 }
-.navigation h1, .navigation h2 {text-transform:lowercase;color:crimson}
+.navigation h1, .navigation h2 {text-transform:lowercase;}
 
 .navigation ul {
 	padding: 0;
