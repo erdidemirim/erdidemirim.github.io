@@ -96,7 +96,7 @@ td, th {
 .navigation ul {
 	padding: 0;
 	list-style-type: none;
-	columns: 17.75rem auto;
+	columns: 2 auto;
 	column-gap: 1.5rem;
 }
 
