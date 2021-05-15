@@ -1,5 +1,5 @@
 ---
-date: 11-04-2021 19:00
+
 
 title: Aristoteles'in Poetika'sı ve Bazı Kavramlar
 
