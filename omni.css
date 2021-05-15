@@ -108,6 +108,8 @@ td, th {
 	page-break-inside: avoid;
 	break-inside: avoid;
 }
+.navigation ul li a {font-size:18px
+}
 
 .navigation li:first-child {
 	margin-top: 0;
