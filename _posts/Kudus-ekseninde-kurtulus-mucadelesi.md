@@ -1,8 +1,8 @@
 ---
-date: Tue May 22 2021 23:16:56 -0800 (Pacific Standard Time)
+date: Tue May 22 2021 23:16:56 +3 (Pacific Standard Time)
 qualitative_time: 
 title: Kudüs Ekseninde Varoluş Mücadelesi
-previous_teaser: Power strips that take two hands to unplug something
+previous_teaser: 
 previous_first: true
 ---
 Bu varoluş mücadelesini, üç yaygın dinin hassasiyet noktası olan “Kudüs” çerçevesinde değerlendirmek istiyorum. Öncelikle yazı başlığında ifade ettiğim gibi durumun neden bir “varoluş” meselesi olduğunu açıklayarak başlayalım.
