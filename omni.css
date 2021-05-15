@@ -124,7 +124,7 @@ td, th {
 	max-width: 37rem;
 	text-align:justify;
 }
-
+.content h1, .content h2, .content h3 {text-align:center}
 .meta {
 	margin: 0;
 	font-size: 0.75rem;
