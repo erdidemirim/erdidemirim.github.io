@@ -124,6 +124,7 @@ td, th {
 	margin: 1rem 1.5rem;
 	max-width: 37rem;
 	text-align:justify;
+	font-size: 19px;
 }
 .content h1, .content h2, .content h3 {text-align:left;line-height: 1.2;}
 .meta {
