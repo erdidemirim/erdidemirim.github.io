@@ -1,7 +1,7 @@
 ---
-date: Mon Apr 12 2021 23:16:56 -0800 (Pacific Standard Time)
+date: Mon Apr 12 2021 23:16:56 +3 (Pacific Standard Time)
 qualitative_time: 
-title: Bern Sözleşmesi ve Bazı Kavramlar
+title: Bern Sözleşmesi ve Telif Serbestligi
 previous_teaser: 
 previous_first: true
 ---
