@@ -43,7 +43,7 @@ td, th {
 }
 
 .home-link:link {
-	display: block;
+	display: inline-block;
 	width: 3rem;
 	background-color: #c00040;
 	text-align: center;
@@ -59,7 +59,7 @@ td, th {
 .home-link:hover {
 	background-color: #ff0055;
 }
-
+.home-link.icon-twitter{background-color:green}
 .admin-link:link {
 	display: block;
 	margin-top: 1rem;
