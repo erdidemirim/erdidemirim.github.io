@@ -1,5 +1,5 @@
 ---
-date: Mon Apr 12 2021 23:16:56 +3 (Pacific Standard Time)
+date: Mon Apr 12 2021 23:16:56 UTC +3 (Turkey Time)
 qualitative_time: 
 title: Bern Sözleşmesi ve Telif Serbestligi
 previous_teaser: 
