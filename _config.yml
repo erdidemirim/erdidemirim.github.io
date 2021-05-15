@@ -9,8 +9,8 @@ defaults:
       type: drafts
     values:
       layout: post
-timezone: US/Pacific
-icon: https://avatars.githubusercontent.com/u/382796?v=3
-feed_author_name: w
-feed_base: https://wh0.github.io
-feed_id_authority: https://wh0.github.io
+timezone: TR/Pacific
+icon: https://github.com/erdidemirim/erdidemirim.github.io/blob/main/favicons.png
+feed_author_name: Erdi Demir
+feed_base: https://redjournal.us
+feed_id_authority: https://twitter.com/erdidemir
