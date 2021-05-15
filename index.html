@@ -3,31 +3,9 @@ title: Home
 layout: base
 ---
 
-<script>
-	document.getElementById('new-post').addEventListener('mousedown', function (e) {
-		var d = new Date();
-		e.target.href = 'https://github.com/wh0/wh0.github.io/new/master' +
-			'?filename=' + encodeURIComponent(
-				'_posts/' +
-				d.getFullYear() + '-' +
-				('0' + (d.getMonth() + 1)).slice(-2) + '-' +
-				('0' + d.getDate()).slice(-2) +
-				'-new-post.md'
-			) +
-			'&value=' + encodeURIComponent(
-				'---\n' +
-				'date: ' + d.toString().replace('GMT', '') + '\n' +
-				'qualitative_time: \n' +
-				'title: New post\n' +
-				'previous_teaser: \n' +
-				'previous_first: ' + JSON.stringify(Math.random() < 0.5) + '\n' +
-				'---\n'
-			) +
-			'&message=new%20post';
-	});
-</script>
+
 <div class="navigation">
-	<h1>RedJournal&nbsp;<a class="feed-link icon-rss" rel="alternate" type="application/atom+xml" href="/articles.xml"></a></h1>
+	<h1>RedJournal<span style="color:#ccc">.us</span>&nbsp;<a class="feed-link icon-rss" rel="alternate" type="application/atom+xml" href="/articles.xml"></a></h1>
 	<ul>
 		{% for post in site.posts %}
 			<li>
