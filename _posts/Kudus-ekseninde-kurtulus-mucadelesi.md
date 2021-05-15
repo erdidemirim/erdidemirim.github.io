@@ -1,5 +1,5 @@
 ---
-date: Tue May 22 2021 23:16:56 +3 (Pacific Standard Time)
+date: Tue May 22 2021 23:16:56 UTC +3 (Turkey)
 qualitative_time: 
 title: Kudüs Ekseninde Varoluş Mücadelesi
 previous_teaser: 
