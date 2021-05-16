@@ -9,8 +9,8 @@ defaults:
       type: drafts
     values:
       layout: post
-timezone: TR/Pacific
-icon: https://github.com/erdidemirim/erdidemirim.github.io/blob/main/favicons.png
+timezone: TR
+icon: https://redjournal.us/favicons.png
 feed_author_name: Erdi Demir
 feed_base: https://redjournal.us
-feed_id_authority: https://twitter.com/erdidemir
+feed_id_authority: https://redjournal.us
