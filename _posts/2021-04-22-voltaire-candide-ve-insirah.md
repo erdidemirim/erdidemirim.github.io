@@ -1,6 +1,7 @@
 ---
 
 title: Voltaire‘in Candide’ı ve İnşirah
+category: kitap
 
 ---
 Voltaire’in Candide (Candide, ou l’Optimisme) eserini, Mario Levi’nin Spotify’daki “Voltaire’in ‘Candide’inden Şeyh Galip’in ‘Hüsn-ü Aşk’ına Hakikat Arayışı” isimli potcastiyle tanıdım. Mario Levi’nin ele alış biçimi, Candide’e karşı bir dikkat uyandırdı. Çok geçmeden de okudum.
