@@ -59,7 +59,8 @@ td, th {
 .home-link:hover {
 	background-color: #ff0055;
 }
-.home-link.icon-twitter{background-color:#1DA1F2}
+.home-link.icon-twitter{    background-color: #fff;
+    color: #1DA1F2;}
 .admin-link:link {
 	display: block;
 	margin-top: 1rem;
