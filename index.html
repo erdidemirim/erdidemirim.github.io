@@ -9,7 +9,7 @@ layout: base
 	<ul>
 		{% for post in site.posts %}
 			<li>
-				<a href="{{ post.url }}">{{ post.title | smartify }}</a>
+				<a href="{{ post.url }}">{{ post.title | smartify }} post.category</a>
 				<p class="meta">{% include meta.txt post=post %}</p>
 			</li>
 		{% endfor %}
